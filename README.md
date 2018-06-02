@@ -1,1 +1,1 @@
-[["Name","ID","Age","Speciality","Sex","Location","Contact"],["Alice","100","34","General","Female","Calicut","53"],["Bob","101","54","Surgeon","Male","Cochin","34"],["Charlie","354","45","Psychiatry","Male","Trivandrum","53"],["Amrita","435","27","General","Female","Cochin","35"],["Gayatri","355","26","General","Female","Calicut","34"],["Simsar","356","22","Psychiatry","Male","Trivandrum","43"],["Piyush","643","23","Surgeon","Male","Cochin","54"],["Ashish","432","64","General","Male","Cochin","34"]]
+QC Slides
